@@ -1,3 +1,3 @@
 ---
-resource_group_name: "myresourceGrouptest"
+resource_group_name: "Default"
 ibmcloud_api_key: "{{ my_api_key }}"
